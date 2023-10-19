@@ -1,0 +1,22 @@
+header > h1{
+    color:aquamarine;
+}
+
+h1 {
+    color: pink;
+    font-size: 50px;
+}
+
+body > header > h1{
+    color: pink !important;
+}
+
+#myImage{
+    width: 300px;
+    height: 300px;
+}
+
+.customArticle{
+    background-color: rgb(205, 187, 253);
+}
+
